@@ -1,0 +1,6 @@
+{
+  "name": "漢字バラバラクイズメーカー",
+  "description": "漢字を部品に分解し、バラバラになった部品から元の漢字を当てるクイズの作成・プレイが可能なアプリ。AIが任意の漢字を自動分解します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
